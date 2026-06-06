@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Curso+Python+--+Alex;🐍+Fundamentos+y+Estructuras+de+Datos;📊+Tuplas%2C+Conjuntos+y+Excepciones;🐙+Control+de+Versiones+con+Git%2FGitHub;🚀+Rumbo+a+la+Segunda+Evaluación" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&height=50&lines=👨‍💻+Curso+Python+--+Alex;🐍+Fundamentos+y+Estructuras+de+Datos;📊+Tuplas%2C+Conjuntos+y+Excepciones;🐙+Control+de+Versiones+con+Git%2FGitHub;🚀+¡¡Seguimos!!" alt="Typing SVG" />
 </p>
 
 ---
