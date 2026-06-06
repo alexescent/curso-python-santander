@@ -12,7 +12,9 @@
 
 # 🚀 Mi Repositorio de Python - `python_basics`
 
-¡Bienvenid@ a mi repositorio de aprendizaje de Python! Este espacio está diseñado para consolidar todos los conceptos clave de programación, estructuras de datos y buenas prácticas que he estado estudiando en el curso de Python del Banco Santander.
+¡Bienvenid@ a mi repositorio de fundamentos de Python! 
+
+Este espacio está diseñado para consolidar todos los conceptos clave de programación, estructuras de datos y buenas prácticas que he estado estudiando en el curso de Python del Banco Santander.
 
 **Autor:** Alejandra Sanz González (`alexescent`)  
 **Lenguaje:** Python
@@ -52,23 +54,22 @@ Diseño de código defensivo para evitar "crashes" de aplicación ante fallos l�
 
 ---
 
-## 📚 Estructura de Código Estándar
+## 📚 Este proyecto contiene todos los ejercicios, pruebas de código y apuntes prácticos desarrollados durante el curso de **Python de Banco Santander**.
+Más que un simple repositorio, he diseñado este espacio como una ** guía de estudio analítica** personal para consolidar la lógica de programación, el manejo de datos y la estructuración de código.
 
-Todos los scripts principales del proyecto implementan la modularidad estándar de Python:
+---
 
-```python
-def main():
-    # Hilo conductor y ejecución del programa principal
-    print("Ejecución iniciada con éxito.")
+## 📂 Arquitectura del Proyecto
 
-if __name__ == "__main__":
-    main()
-```
+Todos los archivos se encuentran en el directorio principal para facilitar el acceso rápido y la ejecución de los scripts. La estructura exacta es la siguiente:
 
 ```text
-.
-├── python_basics/
-│   ├── estructuras/       # Scripts prácticos sobre tuplas y conjuntos (sets)
-│   ├── excepciones/       # Control de flujos de error con try-except y raise
-│   └── main.py            # Punto de entrada y menú de pruebas principales
-└── README.md              # Presentación estética del repositorio
+curso-python-santander/
+│
+├── README.md          # Documentación general y guía del repositorio
+├── __init__.py        # Archivo de inicialización para tratamiento de módulos
+├── datos.txt          # Archivo de texto autogenerado para prácticas de I/O
+├── main.py            # 🧠 Script central: Guía interactiva de conceptos y sintaxis
+├── mi_modulo.py       # Módulo de prueba combinando funciones de saludo y cálculo
+├── operaciones.py     # Módulo enfocado en aislar la lógica matemática
+└── utilidades.py      # Módulo de herramientas para la interacción con el usuario
