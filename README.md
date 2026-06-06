@@ -12,7 +12,7 @@
 
 # 🚀 Mi Repositorio de Python - `python_basics`
 
-¡Bienvenid@ a mi repositorio de aprendizaje de Python! Este espacio está diseñado para consolidar todos los conceptos clave de programación, estructuras de datos y buenas prácticas que he estado estudiando de cara a los exámenes de la segunda evaluación.
+¡Bienvenid@ a mi repositorio de aprendizaje de Python! Este espacio está diseñado para consolidar todos los conceptos clave de programación, estructuras de datos y buenas prácticas que he estado estudiando en el curso de Python del Banco Santander.
 
 **Autor:** Alejandra Sanz González (`alexescent`)  
 **Lenguaje:** Python
