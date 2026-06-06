@@ -54,8 +54,9 @@ Diseño de código defensivo para evitar "crashes" de aplicación ante fallos l�
 
 ---
 
-## 📚 Este proyecto contiene todos los ejercicios, pruebas de código y apuntes prácticos desarrollados durante el curso de **Python de Banco Santander**.
-Más que un simple repositorio, he diseñado este espacio como una ** guía de estudio analítica** personal para consolidar la lógica de programación, el manejo de datos y la estructuración de código.
+## 📚 A modo resumen
+Este proyecto contiene todos los ejercicios, pruebas de código y apuntes prácticos desarrollados durante el curso de **Python de Banco Santander**.
+Más que un simple repositorio, he diseñado este espacio como una **guía de estudio analítica** personal para consolidar la lógica de programación, el manejo de datos y la estructuración de código.
 
 ---
 
