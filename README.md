@@ -64,6 +64,8 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+
+```text
 .
 ├── python_basics/
 │   ├── estructuras/       # Scripts prácticos sobre tuplas y conjuntos (sets)
