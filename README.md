@@ -71,4 +71,4 @@ if __name__ == "__main__":
 │   ├── estructuras/       # Scripts prácticos sobre tuplas y conjuntos (sets)
 │   ├── excepciones/       # Control de flujos de error con try-except y raise
 │   └── main.py            # Punto de entrada y menú de pruebas principales
-└── README.md              # Presentación estética del repositorio con temática Pink
+└── README.md              # Presentación estética del repositorio
